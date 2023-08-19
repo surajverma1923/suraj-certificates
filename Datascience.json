@@ -1,0 +1,31 @@
+[
+    
+    {
+        "id": 1,
+        "name":"Python for Data science(IBM)",
+        "link":"https://www.credly.com/go/O0k1Xzxl",
+        "imageLink":"https://drive.google.com/file/d/14xwGFLcwDJwQJxvfZ56krUBJ0HkhwJF_/view?usp=sharing",
+        "Filepath":"https://drive.google.com/file/d/1-S_7zmkHiJTf7urfOZ7joe7nyYaF1YrB/view?usp=drive_link" 
+    },
+    {
+        "id": 2,
+        "name":"Python 101 for DataScience",
+        "link":"https://courses.cognitiveclass.ai/certificates/619514d864764a928195b396a6d5bd18",
+        "imageLink": "https://drive.google.com/file/d/15-XgKdSgs3ZEGH8XmXtkaDaIaeHuQDW4/view?usp=sharing",
+        "Filepath": "https://drive.google.com/file/d/1-SM0OEVzjN_gQ9bwweTjafrPKYiam4sP/view?usp=drive_link" 
+    },
+    {
+        "id": 3,
+        "name":"SQL for data analytics",
+        "link":"http://ude.my/UC-74c1c28a-07b0-4255-aa97-c79739f6c968",
+        "imageLink": "https://drive.google.com/file/d/15o_f95fYEjgMKgPKiAy_2g9t0-AAu6F-/view?usp=drive_link",
+        "Filepath": "https://drive.google.com/file/d/1-5nzws2r10Zx-sEUmqVSasH1T1DoD8iY/view?usp=drive_link" 
+    },
+    {
+        "id": 4,
+        "name":"Data Science foundation(great learning)",
+        "link":"N/A",
+        "imageLink": "https://drive.google.com/file/d/143FCdZN2DmK6-DZZ7LLGy6PmCTGULd6L/view?usp=sharing",
+        "Filepath": "N/A" 
+    }
+]

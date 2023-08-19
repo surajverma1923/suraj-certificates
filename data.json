@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name":"C basic ",
+        "link":"https://dld.srmist.edu.in/srmktretelab2021/elabserver/ict/cstatus/?subject=11&id=751342521169&item=1",
+        "imageLink":"https://drive.google.com/file/d/14T079bDZ6ZoKc3ZJT_eIJgAiK9z7WquU/view?usp=sharing",
+        "Filepath":"https://drive.google.com/file/d/1016DPkSWVhywcnyPJxFEK5iD5WEuUZEf/view?usp=drive_link" 
+    },
+    {
+        "id": 2,
+        "name":"C Advanced",
+        "link":"https://dld.srmist.edu.in/srmktretelab2021/elabserver/ict/cstatus/?subject=11&id=751342521169&item=2",
+        "imageLink":"", 
+        "Filepath":"https://drive.google.com/file/d/1-tZ4-i2pv3iyt-SetJShTD0JzmoDHnDz/view?usp=drive_link"
+    },
+    {
+        "id": 3,
+        "name":"C Professional",
+        "link":"https://dld.srmist.edu.in/srmktretelab2021/elabserver/ict/cstatus/?subject=11&id=751342521169&item=3",
+        "imageLink":"https://drive.google.com/file/d/14Q_rmPxSprMt9LfzP5YtWMF1gU2J2V_S/view?usp=sharing",
+        "Filepath":"https://drive.google.com/file/d/105n1ESQR7pt0SXHlwMiYQSE9Azt6s9-e/view?usp=drive_link" 
+    },
+    {
+        "id": 4,
+        "name":"C++ Udemy 1",
+        "link":"http://ude.my/UC-191103b7-b9b8-411a-a470-896dc1af9732",
+        "imageLink":"https://drive.google.com/file/d/14Tz_1vxqtONE6vrQEh6Gm7lhV53aYOb-/view?usp=sharing",
+        "Filepath":"https://drive.google.com/file/d/1-jEpt4bCQYqu0Lku95KrCqdcpuwXJXFc/view?usp=drive_link" 
+    },
+    {
+        "id": 5,
+        "name":"C++ part A coursera",
+        "link":"https://coursera.org/verify/XRKD7UC65ZDX",
+        "imageLink": "https://drive.google.com/file/d/14AASBpEGFEqomwlSpF9you4cojT7g4lW/view?usp=sharing",
+        "Filepath": "https://drive.google.com/file/d/10EGxnCDZoO849TwpbgLm7sq5IVx1d8K4/view?usp=drive_link" 
+    },
+    {
+        "id": 6,
+        "name":"OOP Basic",
+        "link":"https://dld.srmist.edu.in/srmktretelab2021/elabserver/ict/cstatus/?subject=32&id=751342521169&item=1",
+        "imageLink":"https://drive.google.com/file/d/15Jc12hU5CgOHOJogXMLzercGLSBV_g9R/view?usp=sharing",
+        "Filepath": "https://drive.google.com/file/d/1-IuZBbEas_4vhI-aGLDMNnpBBuFASlky/view?usp=sharing" 
+    },
+]
